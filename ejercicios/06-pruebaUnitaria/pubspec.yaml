@@ -1,0 +1,12 @@
+name: Pragma_prueba_unitaria_Dart
+description: prueba de archivo de dependencias para pruebas unitarias
+version: 1.0.0
+
+
+
+dependencies:
+  # Dependencias de producción aquí
+
+dev_dependencies:
+  test: ^1.24.6
+
